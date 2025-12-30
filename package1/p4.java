@@ -1,0 +1,15 @@
+package package1;
+class p4
+{
+    public static void main()
+    {
+        for(int i=5;i>0;i--)
+        {
+            for(int j=i;j>0;j--)
+            {
+                System.out.print('*');
+            }
+            System.out.println();
+        }
+    }
+}

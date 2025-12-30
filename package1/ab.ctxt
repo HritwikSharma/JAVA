@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ab
+comment1.params=
+comment1.target=ab()
+comment2.params=a
+comment2.target=ab(int)
+comment3.params=a
+comment3.target=void\ square(int)
+numComments=4
